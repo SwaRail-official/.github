@@ -21,7 +21,7 @@
 
 ## About SwaRail | SwaRail के बारे में
 <div align="center">
-  <img src="https://example.com/swarail-preview.png" width="500" alt="SwaRail App" style="border-radius: 8px; margin: 20px 0;">
+  <img src="https://s.gamelogiafree.org/images/Swarail-apk.webp" width="300" alt="SwaRail App" style="border-radius: 8px; margin: 20px 0;">
 </div>
 
 Welcome to SwaRail - your comprehensive railway travel companion developed by the Centre for Railway Information Systems (CRIS). Our platform revolutionizes the way you experience train travel in India, offering a seamless blend of booking services, real-time updates, and passenger convenience features all in one place.
